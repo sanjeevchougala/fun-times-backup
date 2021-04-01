@@ -13,6 +13,7 @@ class App extends Component {
         <div className="App">
               <Router>
                 <HeaderComponent/>
+                <div> FUN TIMES</div>
                 <Route path="/" exact component={Welcome}></Route>
                 <Route path="/tictactoe" component={TicTacToe}></Route>
                 <Route path="/counter" component={Counter}/>
