@@ -5,7 +5,7 @@ export class FooterComponent extends Component {
         return (
             <footer className="footer">
                 <span className="text-muted">
-                    Rights reserved
+                    Rights reserved...
                 </span>
             </footer>
         )
