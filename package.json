@@ -2,7 +2,7 @@
   "name": "fun-times",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sanjeevchougala/fun-times-backup",
+  "homepage": "http://sanjeevchougala.github.io/fun-times-backup",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
